@@ -1,2 +1,3 @@
 another file
 detached HEAD
+Add text to another.txt file
