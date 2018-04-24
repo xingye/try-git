@@ -2,3 +2,6 @@ this is history
 music history
 feature history
 test stash
+stash branch
+stash history--git reset --soft HEAD^
+change history for testing git stash branch
